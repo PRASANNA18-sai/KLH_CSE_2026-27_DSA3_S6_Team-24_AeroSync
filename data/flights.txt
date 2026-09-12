@@ -1,0 +1,20 @@
+AI202|Air India|Hyderabad|Delhi|Airbus A320
+6E451|IndiGo|Hyderabad|Mumbai|Airbus A320
+UK831|Vistara|Delhi|Hyderabad|Airbus A321
+SG302|SpiceJet|Chennai|Delhi|Boeing 737
+AI506|Air India|Mumbai|Chennai|Airbus A320
+6E214|IndiGo|Bangalore|Hyderabad|Airbus A321
+AI401|Air India|Delhi|Bangalore|Airbus A321
+6E702|IndiGo|Mumbai|Delhi|Airbus A320
+UK908|Vistara|Bangalore|Mumbai|Airbus A320
+SG615|SpiceJet|Hyderabad|Chennai|Boeing 737
+AI712|Air India|Chennai|Kolkata|Airbus A320
+6E333|IndiGo|Kolkata|Delhi|Airbus A321
+UK445|Vistara|Hyderabad|Bangalore|Airbus A320
+AI820|Air India|Pune|Delhi|Airbus A321
+6E551|IndiGo|Delhi|Pune|Airbus A320
+SG777|SpiceJet|Mumbai|Goa|Boeing 737
+AI909|Air India|Kolkata|Mumbai|Airbus A320
+6E888|IndiGo|Chennai|Hyderabad|Airbus A321
+UK650|Vistara|Delhi|Chennai|Airbus A320
+AI303|Air India|Bangalore|Kolkata|Airbus A321
